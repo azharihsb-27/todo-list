@@ -1,4 +1,4 @@
 Rencana todo-list
 - Personal todo (React)
 - Team todo (ReactJS + Tailwind)
-- Big project todo (MERN)
+- Big project todo (NextJS)
